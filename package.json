@@ -2,7 +2,7 @@
   "name": "coffee-conf",
   "description": "Write your config files in coffee-script.",
   "keywords": ["coffee-script", "config", "loading", "application"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Stefan Huber <MSNexploder@gmail.com>",
   "homepage": "http://msnexploder.github.com/coffee-conf",
   "main": "lib/coffee-conf",
