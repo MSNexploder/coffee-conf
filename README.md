@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/MSNexploder/coffee-conf.png)](http://travis-ci.org/MSNexploder/coffee-conf)
 ## Install
 
     npm install coffee-conf
